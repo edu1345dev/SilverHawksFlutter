@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "579696058793",
+    "firebase_url": "https://silverhawksapp-1ad20.firebaseio.com",
+    "project_id": "silverhawksapp-1ad20",
+    "storage_bucket": "silverhawksapp-1ad20.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:579696058793:android:bda2433d757e888f",
+        "android_client_info": {
+          "package_name": "com.silverhawks.teammanagement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "579696058793-abfhknvqmqr3kvmdti05jhjgn70mmmj5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.silverhawks.teammanagement",
+            "certificate_hash": "e1395bc5d2659361052a4e21c14715154474d47a"
+          }
+        },
+        {
+          "client_id": "579696058793-7dc8p6360rb8s9chu8r6i6ku6slf2fel.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGd4GL78vS0uNrg1dhooRRnBwyj5ySIw8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "579696058793-7dc8p6360rb8s9chu8r6i6ku6slf2fel.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
